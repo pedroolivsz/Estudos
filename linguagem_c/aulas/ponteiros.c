@@ -5,7 +5,7 @@ int main() {
     p = &x;
 
     printf("*p: %d\n", *p);
-    printf("p: %d\n", p);
+    printf("p: %d \n", p);
     printf("x: %d\n", x);
-    printf("&x: %d\n", &x);
+    printf("&x: %d \n", &x);
 }
